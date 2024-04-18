@@ -1,3 +1,16 @@
+// BSC
+// NttManager deployed at: 
+//   0x000000000000000000000000f746d61e51072b187d373f32682bf5c08fa73c53
+//   Wormhole Transceiver deployed at: 
+//   0x000000000000000000000000881f8054e12ede4df53f1970df4c306475b387fe
+//   Transceiver address set on NttManager:  0x881f8054e12EDe4dF53f1970df4c306475B387fE
+
+//CELO
+// NttManager deployed at: 
+//   0x00000000000000000000000020cd4166edebc28e133806349da1e7e51b79fcb2
+//   Wormhole Transceiver deployed at: 
+//   0x000000000000000000000000b758213210a474123b398dfab7fafc6a8ec8dea1
+//   Transceiver address set on NttManager:  0xB758213210A474123B398dFab7FaFC6a8ec8DEa1
 {
     "contracts": [
         {
